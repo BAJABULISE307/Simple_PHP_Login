@@ -1,0 +1,10 @@
+Project Plan
+
+1. Directory Structure
+
+Root Directory
+    |--Login.php
+    |--Home.php
+    |--db_users.php
+    |--Logout.php
+    |--Logout_Process.php
